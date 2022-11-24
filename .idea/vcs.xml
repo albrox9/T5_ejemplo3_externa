@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/T5_ejemplo3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/appChat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eurekalib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/examen_albabrox_2dam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter_chat" vcs="Git" />
+  </component>
+</project>
